@@ -6,7 +6,7 @@ from userbot.utils import admin_cmd
 # ================= CONSTANT =================
 
 LOVESTR = [
-    "The best and most beautiful things in this world cannot be seen or even heard, but must be felt with the heart.",
+    "The very best and most beautiful things in this world cannot be seen or even heard, but must be felt with the heart.",
     "You know you're in love when you can't fall asleep because reality is finally better than your dreams.",
     "Love recognizes no barriers. It jumps hurdles, leaps fences, penetrates walls to arrive at its destination full of hope.",
     "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
